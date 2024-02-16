@@ -1,4 +1,11 @@
-function calculateNumbers(var1, var2) {
-  return var1 + var2;
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
 }
-
